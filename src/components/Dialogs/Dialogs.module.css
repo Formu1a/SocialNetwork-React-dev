@@ -1,0 +1,32 @@
+.Dialogs {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+
+.dialog {
+}
+
+.massages {
+  padding: 10px;
+}
+
+.massage {
+  padding: 10px;
+}
+
+.Dialogsitem {
+  padding: 10px;
+}
+
+.Dialogsitem .active {
+  color: rgb(255, 36, 00);
+}
+
+.writeMessage button {
+  background-color: aqua;
+  outline: none;
+  border-radius: 20px;
+  border: outset;
+  width: 70px;
+  height: 35px;
+}

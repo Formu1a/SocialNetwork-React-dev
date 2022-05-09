@@ -1,0 +1,18 @@
+.pageNumber {
+    padding: 3px;
+    border: 1px solid grey;
+    border-radius:  50%;
+}
+.number {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid grey;
+    width: 300px;
+    margin-left: 35%;
+    border-radius: 0px 0px 25px 25px;
+}
+.pageNumber.selectedPage{
+    font-weight: bold;
+    border-color: black;
+    
+}

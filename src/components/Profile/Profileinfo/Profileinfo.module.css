@@ -1,0 +1,31 @@
+.content {
+    grid-area: c;
+    background-color: rgb(255, 255, 255);
+}
+
+.photo img {
+    border-radius: 25px 25px 0 0;
+    width: 992px;
+    height: 220px;
+}
+
+.photoA img {
+    border-radius: 50%;
+    width: 250px;
+    position: relative;
+}
+
+.name {
+    position: relative;
+    top: -180px;
+    left: 250px;
+}
+
+.info {
+    position: relative;
+    top: -180px;
+    left: 250px;
+}
+.contact{
+    padding-left: 10px;
+}

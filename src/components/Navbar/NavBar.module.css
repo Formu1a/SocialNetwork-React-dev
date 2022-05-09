@@ -1,0 +1,26 @@
+.nav {
+    grid-area: n;
+    background-color: #142948;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgb(255, 255, 255);
+    opacity: 85%;
+}
+.item a {
+    color: rgb(255, 255, 255);
+    margin: 20px;
+    text-decoration: none;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+.itemS {
+    margin-top: 70px;
+    margin-left: 20px;
+}
+
+.itemA {
+    margin: 20px;
+}
+
+.item a.word {
+    color: rgb(255, 36, 0);
+}
